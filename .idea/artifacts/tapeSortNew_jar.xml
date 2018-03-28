@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tapeSortNew:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tapeSortNew_jar</output-path>
+    <root id="archive" name="tapeSortNew.jar">
+      <element id="module-output" name="tapeSortNew" />
+    </root>
+  </artifact>
+</component>
